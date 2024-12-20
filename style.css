@@ -1,0 +1,28 @@
+.pari{
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    width: 380px;
+    height: 240px;
+    border-radius: 20px;
+}
+.net{
+    width: 251px;
+}
+.text{
+    width: 266px;
+}
+
+.new{
+    text-align: center;
+}
+.logo2{
+    width: 1550px;
+    height: 300px;
+    top: 3861px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+
+}
